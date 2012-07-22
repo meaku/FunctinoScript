@@ -1,0 +1,19 @@
+{
+  "name": "functinoscript",
+  "version": "0.0.1",
+  "description": "like javascript but different",
+  "main": "./lib/index.js",
+  "bin": "./lib/index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meaku/FunctinoScript.git"
+  },
+  "keywords": [
+    "metalanguage"
+  ],
+  "author": "Michael Jaser",
+  "license": "MIT"
+}
