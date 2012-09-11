@@ -1,4 +1,4 @@
-## FunctinoScript ©
+# FunctinoScript ©
 
 JavaScript the way it should be.
 
@@ -49,5 +49,5 @@ functino helloFunctino.fs
 ```
 
 ### Installation
-`npm install -g functino`
+```npm install -g functino```
 
