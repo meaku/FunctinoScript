@@ -44,12 +44,10 @@ If you found some more syntax-wrongness with javascript, simply drop a pull-requ
 ### Usage
 Run this in your shell
 
- ```
+```
 functino helloFunctino.fs
 ```
 
 ### Installation
-- git clone https://github.com/meaku/FunctinoScript
-- cd FunctinoScript
-- npm install -g ./ (maybe with sudo)
+`npm install -g functino`
 
