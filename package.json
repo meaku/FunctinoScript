@@ -1,7 +1,7 @@
 {
-  "name": "functinoscript",
-  "version": "0.0.1",
-  "description": "like javascript but different",
+  "name": "functino",
+  "version": "1.0.0",
+  "description": "Like Javascript but different",
   "main": "./lib/index.js",
   "bin": "./lib/index.js",
   "scripts": {
