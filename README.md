@@ -2,6 +2,8 @@
 
 JavaScript the way it should be.
 
+![FunctinoLogo](https://raw.github.com/meaku/FunctinoScript/master/assets/functinoLogo.png)
+
 ### Synposis
 
 There are some quirks with the JavaScript-implementation...
