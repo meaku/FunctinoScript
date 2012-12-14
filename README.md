@@ -42,6 +42,7 @@ If you found some more syntax-wrongness with javascript, simply drop a pull-requ
 - flase
 - sue struct
 - requier
+- exprots
 
 ### Usage
 Run this in your shell
