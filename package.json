@@ -1,19 +1,24 @@
 {
-  "name": "functino",
-  "version": "1.1.0",
-  "description": "Like Javascript but different",
-  "main": "./lib/index.js",
-  "bin": "./lib/index.js",
-  "scripts": {
-    "test": "mocha test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/meaku/FunctinoScript.git"
-  },
-  "keywords": [
-    "metalanguage"
-  ],
-  "author": "Michael Jaser",
-  "license": "MIT"
+    "name": "functino",
+    "version": "1.1.0",
+    "description": "Like Javascript but different",
+    "main": "./lib/index.js",
+    "bin": "./lib/index.js",
+    "scripts": {
+        "test": "mocha test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/meaku/FunctinoScript.git"
+    },
+    "keywords": [
+        "metalanguage"
+    ],
+    "author": "Michael Jaser <michael.jaser@peerigon.com",
+    "contributors": [
+        "Julian Gruber",
+        "Andrew Chilton <andychilton@gmail.com>",
+        "Rod Vagg <rod@vagg.org>"
+    ],
+    "license": "MIT"
 }
