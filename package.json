@@ -1,6 +1,6 @@
 {
     "name": "functino",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "description": "Like Javascript but different",
     "main": "./lib/index.js",
     "bin": "./lib/index.js",
@@ -14,8 +14,9 @@
     "keywords": [
         "metalanguage"
     ],
-    "author": "Michael Jaser <michael.jaser@peerigon.com",
+    "author": "Michael Jaser <michael.jaser@peerigon.com>",
     "contributors": [
+        "Johannes Ewald <johannes.ewald@peerigon.com>",
         "Julian Gruber",
         "Andrew Chilton <andychilton@gmail.com>",
         "Rod Vagg <rod@vagg.org>"

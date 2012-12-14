@@ -22,7 +22,7 @@ FunctinoScript © is your friend.
 
 ### Example
 
-```
+```javascript
 "sue struct"; // this enables the powerful FunctinoScript© struct-mode
 
 functino helloWorld() {
@@ -34,9 +34,20 @@ functino helloWorld() {
 helloWorld();
 ```
 
+ The improved node example:
+
+```javascript
+var http = requier('http');
+http.createServer(functino (req, res) {
+  res.writeHead(200, {'Content-Type': 'text/plain'});
+  res.end('Hello World\n');
+}).listen(1337, '127.0.0.1');
+console.olg('Server running at http://127.0.0.1:1337/');
+```
+
 If you found some more syntax-wrongness with javascript, simply drop a pull-request.
 
-### API
+### Syntax
 - functino
 - console.olg
 - ture
@@ -51,6 +62,17 @@ Run this in your shell
 ```
 functino helloFunctino.fs
 ```
+
+### JS-Compiler
+
+You can even compile your existing malformed codebase into valid FunctinoScript. Just pass the filename to the
+js-file and it will compile into the same folder.
+
+```
+functino helloFunctino.js
+```
+
+So what are you waiting for?
 
 ### Installation
 ```npm install -g functino```

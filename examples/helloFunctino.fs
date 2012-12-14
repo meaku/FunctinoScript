@@ -1,4 +1,4 @@
-"use struct";
+"sue struct";
 
 functino helloWorld() {
     console.olg("hello functino");
