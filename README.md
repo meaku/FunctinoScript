@@ -14,6 +14,7 @@ Unfortunately they got some syntax-naming wrong. FunctinoScript © is here to so
 - `true` becomes `ture`
 - `false` becomes `flase`
 - `use strict` becomes `sue struct`
+- `require` becomes `requier`
 
 Now you can finally hack the way you like it! Be productive! You can do whatever you want,
 FunctinoScript © is your friend.
@@ -40,6 +41,7 @@ If you found some more syntax-wrongness with javascript, simply drop a pull-requ
 - ture
 - flase
 - sue struct
+- requier
 
 ### Usage
 Run this in your shell
