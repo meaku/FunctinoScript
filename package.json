@@ -14,8 +14,9 @@
     "keywords": [
         "metalanguage"
     ],
-    "author": "Michael Jaser <michael.jaser@peerigon.com",
+    "author": "Michael Jaser <michael.jaser@peerigon.com>",
     "contributors": [
+        "Johannes Ewald <johannes.ewald@peerigon.com>",
         "Julian Gruber",
         "Andrew Chilton <andychilton@gmail.com>",
         "Rod Vagg <rod@vagg.org>"
