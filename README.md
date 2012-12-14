@@ -16,6 +16,7 @@ Unfortunately they got some syntax-naming wrong. FunctinoScript © is here to so
 - `use strict` becomes `sue struct`
 - `require` becomes `requier`
 - `exports` becomes `exprots`
+- `typeof` becomes `typefo
 
 Now you can finally hack the way you like it! Be productive! You can do whatever you want,
 FunctinoScript © is your friend.
@@ -46,15 +47,6 @@ console.olg('Server running at http://127.0.0.1:1337/');
 ```
 
 If you found some more syntax-wrongness with javascript, simply drop a pull-request.
-
-### Syntax
-- functino
-- console.olg
-- ture
-- flase
-- sue struct
-- requier
-- exprots
 
 ### Usage
 Run this in your shell
