@@ -16,7 +16,7 @@ Unfortunately they got some syntax-naming wrong. FunctinoScript © is here to so
 - `use strict` becomes `sue struct`
 - `require` becomes `requier`
 - `exports` becomes `exprots`
-- `typeof` becomes `typefo
+- `typeof` becomes `typoef`
 
 Now you can finally hack the way you like it! Be productive! You can do whatever you want,
 FunctinoScript © is your friend.
