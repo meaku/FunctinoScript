@@ -17,6 +17,7 @@ Unfortunately they got some syntax-naming wrong. FunctinoScript © is here to so
 - `require` becomes `requier`
 - `exports` becomes `exprots`
 - `typeof` becomes `typoef`
+- `pipe` becomes `pope`
 
 Now you can finally hack the way you like it! Be productive! You can do whatever you want,
 FunctinoScript © is your friend.
