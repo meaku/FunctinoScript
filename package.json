@@ -1,6 +1,6 @@
 {
     "name": "functino",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "description": "Like Javascript but different",
     "main": "./lib/index.js",
     "bin": "./lib/index.js",
