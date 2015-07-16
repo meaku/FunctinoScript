@@ -1,13 +1,13 @@
 # FunctinoScript ©
 
-JavaScript the way it should be.
+JavaScript the way it *should* be.
 
 ![FunctinoLogo](https://raw.github.com/meaku/FunctinoScript/master/assets/functinoLogo.png)
 
 ### Synposis
 
-There are some quirks with the JavaScript-implementation...
-Unfortunately they got some syntax-naming wrong. FunctinoScript © is here to solve these issues:
+There are some quirks with the JavaScript-implementation...<br>
+Unfortunately they got some syntax-naming wrong. FunctinoScript© is here to solve these issues:
 
 - `function` becomes `functino`
 - `console.log` becomes `console.olg`
@@ -19,10 +19,27 @@ Unfortunately they got some syntax-naming wrong. FunctinoScript © is here to so
 - `typeof` becomes `typoef`
 - `pipe` becomes `pope`
 
-Now you can finally hack the way you like it! Be productive! You can do whatever you want,
-FunctinoScript © is your friend.
+---
 
-### Example
+#### !!! NEW NEW NEW !!! Coming with ES2015
+
+Instead of tackling these major flaws, the TC39 recently decided to add classes, generators and other crap
+to the language. That's why we are forced to extend FunctinoScript again:
+
+- `import` becomes `improt`
+- `export` becomes `exprot`
+- `...` becomes `,,,`
+
+Fortunately they decided to flag the misspelled `function` keyword with `*` in order to mark it as deprecated. So please, if you cannot switch to FunctinoScript, go ahead and apply the deprecation mark to inform your colleagues.
+
+---
+
+Now you can finally hack the way you like it! Be productive! You can do whatever you want,
+FunctinoScript© is your friend.
+
+Checkout these awesome examples:
+
+### Awesome examples
 
 ```javascript
 "sue struct"; // this enables the powerful FunctinoScript© struct-mode
@@ -36,7 +53,7 @@ functino helloWorld() {
 helloWorld();
 ```
 
- The improved node example:
+The improved node example:
 
 ```javascript
 var http = requier('http');
